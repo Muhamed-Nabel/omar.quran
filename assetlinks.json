@@ -1,5 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.silverbullet.omarquran",
-               "sha256_cert_fingerprints": ["21:60:B8:01:BF:95:11:3A:C7:BB:D5:0F:38:77:5A:E0:76:6C:01:2C:BC:58:BC:22:0C:1D:C5:76:D3:9E:A9:EA"] }
-}]
